@@ -1,0 +1,22 @@
+*{text-decoration:none; margin: 0px; panding: 0px; list-style-none;}
+#geneldiv{width:960px; margin:0 auto; height:600px; background-color:gray;}
+#ustdiv{height:90px; background-color: black;}
+#logo{float: left;margin:3px;}
+#ustmenu{float: right; color:white;}
+#menu{margin:35px;}
+#menu li{display:inline;margin:20px;}
+#menu li a{color:orange;
+text-decoration:none;
+font-weight:bold;
+font:16px Tahoma;}
+#menu li a:hover{text-decoration:underline;
+color:yellow;}
+#kategoriler{
+	float:left;width:200px;
+	background-color:#ddd;
+height:300px;}
+#icerik{float:right;width:760px;
+background-color:yellow;
+height:300px;}
+#kategori li{padding:20px; font:14px Tahoma;
+background-color:#ddd;}
