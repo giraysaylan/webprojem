@@ -1,22 +1,23 @@
 *{text-decoration:none; margin: 0px; panding: 0px; list-style-none;}
-#geneldiv{width:960px; margin:0 auto; height:600px; background-color:gray;}
-#ustdiv{height:90px; background-color: black;}
+html { font-size:10px; }
+#geneldiv{ margin:0 auto; height:60rem; background-color:gray;}
+#ustdiv{height:9rem; background-color: black; area-expanded="false";}
 #logo{float: left;margin:3px;}
 #ustmenu{float: right; color:white;}
-#menu{margin:35px;}
-#menu li{display:inline;margin:20px;}
+#menu{margin:3.5rem;}
+#menu li{display:inline;margin:2rem;}
 #menu li a{color:orange;
 text-decoration:none;
 font-weight:bold;
-font:16px Tahoma;}
+font:1.6rem Tahoma;margin-bottom:1rem ;}
 #menu li a:hover{text-decoration:underline;
 color:yellow;}
 #kategoriler{
-	float:left;width:200px;
+	float:left;width:11rem;
 	background-color:#ddd;
-height:300px;}
-#icerik{float:right;width:760px;
-background-color:yellow;
-height:300px;}
-#kategori li{padding:20px; font:14px Tahoma;
+height:50rem;}
+#icerik{float:right;width:76%; padding: 1rem 1rem;
+background-color:#00a778;
+height:48rem; font-size:1.6rem ;}
+#kategori li{ font:1.4rem Tahoma; margin-top:2rem ;padding-right:1rem ;line-height:5rem;
 background-color:#ddd;}
